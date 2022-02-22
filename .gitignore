@@ -3,3 +3,4 @@
 /tracecomm.patch
 /network_cm02.cpp
 /network_cm02.cpp.orig
+/.gitignore
